@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+}
+.problem{
+  margin:15px;
+  width:150px;
+  height:150px;
+  font-size: 25px;
+ 
+}
+
+.first{
+  position: relative;
+  left:25px;
+}
+
+.third{
+  position: relative;
+  left:25px;
+  bottom:60px;
+}
+
+.fourth{
+  position: relative;
+  bottom:75px;
+
+}
+
+.answer{
+  width: 145px;
+  font-size: 30px;
+  position: relative;
+  height:30px;
+  bottom:80px;
+}
+
+.check_answer{
+  position: relative;
+  width:145px;
+  height:30px;
+  bottom:80px;
+}
+
+.hidden{
+  display:none;
+}
